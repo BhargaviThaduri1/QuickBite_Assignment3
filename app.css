@@ -217,9 +217,6 @@ footer{
         align-items: center;
 
     }
-    b{
-        font-size:6vw;
-    }
     .lower-section{
        font-size:2vw;
 
@@ -234,6 +231,17 @@ footer{
         align-items: center;
         justify-content: center;
     }
+    .work span,.quick span,.download span{
+        font-size: 3vw;
+    }
+    .steps p{
+        font-size:3vw;
+    }
+    b{
+        font-size:4vw;
+    }
+    footer{
+        font-size:3vw;
 
-    
+    }
 }
